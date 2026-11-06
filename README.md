@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : MWANDA BINDA    
+- prénom : EMMANUEL
 - URL Netlify :
 
 # Travail
