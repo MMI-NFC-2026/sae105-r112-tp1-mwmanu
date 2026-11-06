@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : MWANDA BINDA    
+- prénom : EMMANUEL
+- URL Netlify :https://verdant-puffpuff-66a30c.netlify.app/
 
 # Travail
 
